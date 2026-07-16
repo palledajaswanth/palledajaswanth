@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Palleda Jaswanth</h1>
+<h3 align="center">B.Tech CSE Student | Java Developer | Cloud Learner</h3>
 
-<!--
-**palledajaswanth/palledajaswanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="YOUR_PHOTO_URL" width="180" style="border-radius:50%">
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 B.Tech CSE Student at KL University
+- ☁️ Learning AWS and Cloud Technologies
+- 💻 Java | Spring Boot | React
+- 🚀 Interested in Full Stack Development
+- 🌱 Currently learning DSA and System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/palleda-jaswanth-ba0a25316/
+- LeetCode: https://leetcode.com/u/klu2300032516/
+
+## 🛠️ Tech Stack
+Java • Spring Boot • React • MySQL • AWS • Git • Docker
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=palledajaswanth&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palledajaswanth&layout=compact&theme=tokyonight)
