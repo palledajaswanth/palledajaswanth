@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://github.com/palledajaswanth/palledajaswanth/blob/main/jash photo.jpg?raw=true" width="180">
 </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+Developer;AWS+Cloud+Learner;Full+Stack+Developer;B.Tech+CSE+Student)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+Developer;AWS+Cloud+Learner;Full+Stack+Developer;B.Tech+CSE+Student)](https://git.io/typing-svg)
 
