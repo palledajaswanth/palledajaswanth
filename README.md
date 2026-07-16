@@ -20,6 +20,6 @@
 Java • Spring Boot • React • MySQL • AWS • Git • Docker
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=palledajaswanth&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=palledajaswanth&theme=github_dark)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=palledajaswanth&layout=compact&theme=tokyonight" />
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palledajaswanth&theme=github_dark)
