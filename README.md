@@ -20,11 +20,6 @@
 Java • Spring Boot • React • MySQL • AWS • Git • Docker
 
 ## 📊 GitHub Stats
+![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=palledajaswanth&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palledajaswanth&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palledajaswanth&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palledajaswanth&layout=compact&theme=tokyonight)
