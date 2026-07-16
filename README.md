@@ -18,13 +18,13 @@
 - LinkedIn: https://www.linkedin.com/in/palleda-jaswanth-ba0a25316/
 - LeetCode: https://leetcode.com/u/klu2300032516/
 
+
+## 🛠️ Tech Stack
+Java • Spring Boot • React • MySQL • AWS • Git • Docker
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## 🛠️ Tech Stack
-Java • Spring Boot • React • MySQL • AWS • Git • Docker
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=palledajaswanth&theme=github_dark)
