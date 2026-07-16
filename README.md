@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE Student | Java Developer | Cloud Learner</h3>
 
 <p align="center">
-  <img src="YOUR_PHOTO_URL" width="180" style="border-radius:50%">
+  <img src="https://github.com/palledajaswanth/palledajaswanth/blob/main/jash photo.jpg?raw=true" width="180">
 </p>
 
 ## 👨‍💻 About Me
